@@ -2,7 +2,7 @@
 
 ---
 
-`To see the result of exercise, uncomment the imports for perticular exercise and also uncomment the components which belongs to that exercise`
+`To see the result of exercise, In the App.js uncomment the imports for perticular exercise and also uncomment the components which belongs to that exercise`
 
 > Exercise 1 :
 
