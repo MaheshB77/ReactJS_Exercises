@@ -1,0 +1,28 @@
+.BoxList-form button {
+  padding: 5px;
+  margin-left: 50px;
+  margin-top: 5px;
+  background-color: tomato;
+  border: none;
+}
+
+.BoxList-form button:hover {
+  background-color: blueviolet;
+  border: 2px solid black;
+}
+
+.ColorBox-button {
+  padding: 5px;
+  background-color: royalblue;
+  border: 2px solid black;
+  margin-top: 10px;
+}
+.ColorBox-button:hover {
+  background-color: red;
+  border: 2px solid black;
+}
+
+.ColorBox {
+  margin-left: 670px;
+  margin-top: 20px;
+}
